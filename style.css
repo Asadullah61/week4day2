@@ -1,0 +1,18 @@
+body {text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1284271878/photo/javascript-inscription-against-laptop-and-code-background-learn-javascript-programming.jpg?s=1024x1024&w=is&k=20&c=iGiUPCesPFZq06F0eE_I72w5Z7dW_LgUeciGmyONLcM=);
+background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+padding: 20px;
+}
+
+button {background-color: rgb(186, 223, 23);
+padding: 10px 15px;
+cursor: pointer;
+}
+h2{background-color: aliceblue;}
+
+ul {background-color: rgb(192, 21, 21);
+margin-top: 20px;
+}
